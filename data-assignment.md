@@ -17,6 +17,7 @@
 * Wenhe Li -- [add description && add Persona file into game](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/5)
 * Luna -- [Puerto Rican Debt](https://wp.nyu.edu/luna/2018/09/16/github-corpora-excercise/)
 * Vince Shao -- [AGI Designers List](https://github.com/Open-Source-Studio-at-ITP/corpora/pull/11)
+* Ilana -- [Emoji + Keywords list] (https://github.com/ilanabonder/corpora/blob/master/data/words/emoji/emoji_keywords.json)
 
 # Instructions for Corpora Contribution
 
